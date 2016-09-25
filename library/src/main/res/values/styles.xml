@@ -1,0 +1,15 @@
+<resources>
+
+    <declare-styleable name="CarouselView">
+        <attr name="indicator_space" format="dimension"/>
+        <attr name="indicator_margin_right" format="dimension"/>
+        <attr name="bottom_bar_height" format="dimension"/>
+        <attr name="pic_desc_margin_left" format="dimension"/>
+        <attr name="bottom_bar_margin_bottom" format="dimension"/>
+        <attr name="pic_desc_text_size" format="dimension"/>
+        <attr name="pic_desc_text_color" format="color"/>
+        <attr name="bottom_bar_background_color" format="color"/>
+        <attr name="auto_carousel_timeMS" format="integer"/>
+    </declare-styleable>
+
+</resources>
